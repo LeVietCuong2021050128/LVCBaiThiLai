@@ -1,1 +1,0 @@
-dotnet aspnet-codegenerator controller -name SinhVienController -m SinhVien -dc LTQLDb --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite
